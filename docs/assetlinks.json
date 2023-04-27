@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.biositesystems.gold.android",
+    "sha256_cert_fingerprints":
+    ["2E:2D:C3:4B:D9:39:89:4B:1E:B3:AE:AF:6E:AE:1B:60:99:B3:3D:21:70:C2:C9:EF:53:26:32:19:B5:06:3A:75"]
+  }
+}]
