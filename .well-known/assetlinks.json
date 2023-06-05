@@ -1,18 +1,38 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.biositesystems.gold.android",
-    "sha256_cert_fingerprints":
-    ["F0:F7:2A:F8:6D:75:1D:DF:8D:16:68:E6:46:66:0B:05:4E:24:49:4A:E0:B3:5C:21:8F:C0:68:0D:98:FE:3C:CD"]
-  },
+[
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.biositesystems.gold.android",
-      "sha256_cert_fingerprints":
-        ["D5:B8:62:32:36:F6:C3:C7:3E:41:D6:BA:76:40:15:BA:48:9B:4C:C0:E4:0D:34:0C:E4:90:0E:58:D9:B6:17:47"]
+      "sha256_cert_fingerprints": [
+        "F0:F7:2A:F8:6D:75:1D:DF:8D:16:68:E6:46:66:0B:05:4E:24:49:4A:E0:B3:5C:21:8F:C0:68:0D:98:FE:3C:CD"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.biositesystems.gold.android",
+      "sha256_cert_fingerprints": [
+        "D5:B8:62:32:36:F6:C3:C7:3E:41:D6:BA:76:40:15:BA:48:9B:4C:C0:E4:0D:34:0C:E4:90:0E:58:D9:B6:17:47"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.biositesystems.gold.android",
+      "sha256_cert_fingerprints": [
+        "ED:D4:B6:1A:C1:ED:F0:E5:00:3F:0D:33:37:D0:7B:00:18:45:A5:E0:19:D9:BD:65:65:DF:B4:B3:24:E1:4D:DD"
+      ]
     }
   }
-}]
+]
